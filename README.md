@@ -1,0 +1,1 @@
+# Task2 A simple website for a renewable systems company consisting of 4 pages; the homepage, a contact page with contact information, a interns page, and a portfolio page to showcase the company's offerings.
