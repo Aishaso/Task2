@@ -33,7 +33,7 @@ nextBtn.addEventListener("click", ()=> {
 
 
 /*.........page-loader................*/
- const spinnerwrapperEi= document.querySelector(".sppiner-wrrap");
+ const spinnerwrapperEi= document.querySelector(".spinner-wrapper");
  
  setTimeout(()=>{
   spinnerwrapperEi.style.opacity='0';},1000)
