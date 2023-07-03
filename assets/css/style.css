@@ -1338,7 +1338,7 @@ section {
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
-.portfolio-details {
+ .portfolio-details {
   padding-top: 40px;
 }
 
@@ -1406,12 +1406,16 @@ section {
 .team {
   background: #fff;
   padding-bottom: 30px;
+ 
+
 }
 
 .team .member {
   margin-bottom: 20px;
   overflow: hidden;
+
 }
+
 
 .team .member .member-img {
   position: relative;
@@ -2127,7 +2131,7 @@ section {
   padding-left: 5px;
   color: #bedae8;
   font-size: 14px;
-}
+} 
 
 /*--------------------------------------------------------------
 # Footer
